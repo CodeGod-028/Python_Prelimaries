@@ -21,11 +21,13 @@
 # list=[1,2,4,5,6,8,9,10]
 # list.pop(6)
 # print(list)
+# print(type(list)) # Output: <class 'list'>
 
 # list3=[1,2,3,4,5,6,7,8,9,10]
 # list.reverse(list3)
 # print(list3)
 
-var =["You","Love","I"]
-var.sort()
-print(var)
+# var =["You","Love","I"]
+# var.sort()
+# print(var)
+# print(type(var)) # Output: <class 'list'>
